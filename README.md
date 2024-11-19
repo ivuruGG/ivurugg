@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🌐%20Connect%20with%20Me%20|%20私とつながりましょう%20|%20연락해주세요&fontSize=30&fontColor=FFFFFF&animation=fadeIn" alt="Connect with Me" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🌐%20Connect%20with%20Me&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Connect with Me" />
 </div>
 <div align="center">
   <a href="https://x.com/ivurugg"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -27,9 +27,8 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🛠️%20My%20Tech%20Stack%20|%20技術スタック%20|%20기술%20스택&fontSize=30&fontColor=FFFFFF&animation=fadeIn" alt="My Tech Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🛠️%20My%20Tech%20Stack&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="My Tech Stack" />
 </div>
-
 ### 🌟 Frontend | フロントエンド
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend Stack" />
@@ -51,18 +50,18 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20Community%20Links%20|%20コミュニティリンク%20|%20커뮤니티%20링크&fontSize=30&fontColor=FFFFFF&animation=fadeIn" alt="Community Links" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20Community%20Links&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Community Links" />
 </div>
 <div align="center">
-  <a href="https://discord.gg/gnm7Uk4gfZ" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Join%20on%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/gnm7Uk4gfZ">
+    <img src="https://img.shields.io/badge/Join%20on%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius:5px;" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🚀%20Featured%20Projects%20|%20主要なプロジェクト%20|%20주요%20프로젝트&fontSize=30&fontColor=FFFFFF&animation=fadeIn" alt="Featured Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🚀%20Featured%20Projects&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Featured Projects" />
 </div>
 ### 🖥️ Web Applications
 <div align="center">
@@ -87,7 +86,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20Activity%20Graph%20|%20アクティビティグラフ%20|%20활동%20그래프&fontSize=30&fontColor=FFFFFF&animation=fadeIn" alt="Activity Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20Activity%20Graph&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Activity Graph" />
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ivurugg&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
