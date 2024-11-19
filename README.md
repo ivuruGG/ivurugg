@@ -24,48 +24,40 @@
 
 ---
 
-## 🛠️ My Tech Stack | 技術スタック 
-
+## 🛠️ My Tech Stack | 技術スタック
 ### 🌟 Frontend | フロントエンド
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,redux,bootstrap&perline=6" alt="Frontend Stack" />
-  <p>💡 Expertise: Intermediate to Advanced</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,tailwind,redux,bootstrap" alt="Frontend Stack" />
 </div>
 
 ### 🔧 Backend | バックエンド
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,java,python,django,flask,express,sql,go&perline=6" alt="Backend Stack" />
-  <p>💡 Expertise: Intermediate to Advanced</p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java,python,django,flask,express,sql,go" alt="Backend Stack" />
 </div>
 
 ### ☁️ Infrastructure | インフラ
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,oracle,mysql,linux,nginx&perline=6" alt="Infrastructure Stack" />
-  <p>💡 Expertise: Intermediate to Advanced</p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,oracle,mysql,linux,nginx" alt="Infrastructure Stack" />
 </div>
 
 ### 🛠️ Dev Tools | 開発ツール
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,figma,vscode,postman,jira&perline=6" alt="Dev Tools" />
-  <p>💡 Frequently Used in Projects</p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,figma,vscode,postman,jira" alt="Dev Tools" />
 </div>
 
 ### 🎨 Design & UI Libraries | デザイン & UIライブラリ
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,adobephotoshop,adobeillustrator,bootstrap,tailwind&perline=6" alt="Design Tools" />
-  <p>💡 Crafting Beautiful User Interfaces</p>
+  <img src="https://skillicons.dev/icons?i=figma,adobephotoshop,adobeillustrator,bootstrap,tailwind" alt="Design Tools" />
 </div>
 
 ### 🤖 AI/ML & Data Analysis | AI/機械学習 & データ解析
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab&perline=6" alt="AI/ML & Data Analysis" />
-  <p>💡 Expertise: Beginner to Intermediate</p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab" alt="AI/ML & Data Analysis" />
 </div>
 
 ### 📱 Mobile Development | モバイル開発
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,reactnative&perline=6" alt="Mobile Development" />
-  <p>💡 Building Responsive and Modern Mobile Apps</p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift,flutter,reactnative" alt="Mobile Development" />
 </div>
 
 ---
@@ -117,4 +109,28 @@
         <p><img src="https://skillicons.dev/icons?i=unity,csharp" alt="Tech Stack" width="150" /></p>
         <p>A fast-paced endless runner built with Unity.<br>Unityで開発した高速エンドレスランナーゲーム。</p>
         <a href="https://github.com/ivurugg/project4"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square&logo=github" alt="View Project" /></a>
-     
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔥 Community Links
+<div align="center">
+  <a href="https://discord.gg/gnm7Uk4gfZ"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
+---
+
+## 🔥 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ivurugg&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:53EBD3,100:3E92CC&height=200&section=footer&animation=fadeIn" alt="footer" />
+  <p>🌟 Thanks for visiting my profile! Let's connect and create something amazing! 🌟</p>
+</div>
