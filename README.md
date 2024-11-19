@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E92CC,100:53EBD3&height=250&section=header&text=Welcome!&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=ivuruGG's%20World%20of%20Code&descAlign=60&descAlignY=60&animation=fadeIn" alt="header" />
 </div>
 
-<h1 align="center">👋 Hello! | こんにちは！| 안녕하세요!</h1>
+<h1 align="center">👋 Hello! </h1>
 <p align="center">
   <em>Creative Developer • Gamer • Content Creator</em><br>
   <em>クリエイティブな開発者・ゲーマー・コンテンツクリエイター</em><br>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Connect with Me | 私とつながりましょう | 연락해주세요
+## 🌐 Connect with Me （My SNS）
 <div align="center">
   <a href="https://x.com/ivurugg"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/ivurugg/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -24,20 +24,20 @@
 
 ---
 
-## 🛠️ My Tech Stack | 技術スタック | 기술 스택
-### 🌟 Frontend | フロントエンド | 프론트엔드
+## 🛠️ My Tech Stack | 技術スタック 
+### 🌟 Frontend | フロントエンド
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend Stack" />
   <p>💡 Expertise: Intermediate to Advanced</p>
 </div>
 
-### 🔧 Backend | バックエンド | 백엔드
+### 🔧 Backend | バックエンド
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,java,python,django,sql,go&perline=6" alt="Backend Stack" />
   <p>💡 Expertise: Intermediate to Advanced</p>
 </div>
 
-### ☁️ Infrastructure | インフラ | 인프라
+### ☁️ Infrastructure | インフラ
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,postgres,oracle,linux&perline=6" alt="Infrastructure Stack" />
   <p>💡 Expertise: Intermediate to Advanced</p>
@@ -45,7 +45,7 @@
 
 ---
 
-## 📈 GitHub Highlights | GitHub ハイライト | GitHub 하이라이트
+## 📈 GitHub Highlights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivurugg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivurugg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -56,8 +56,8 @@
 
 ---
 
-## 🚀 Featured Projects | 主要なプロジェクト | 주요 프로젝트
-### 🖥️ Web Applications | ウェブアプリ | 웹 애플리케이션
+## 🚀 Featured Projects
+### 🖥️ Web Applications
 <div align="center">
   <table>
     <tr>
@@ -77,7 +77,7 @@
   </table>
 </div>
 
-### 🎮 Games | ゲーム | 게임
+### 🎮 Games
 <div align="center">
   <table>
     <tr>
@@ -99,14 +99,14 @@
 
 ---
 
-## 🔥 Community Links | コミュニティリンク | 커뮤니티 링크
+## 🔥 Community Links
 <div align="center">
   <a href="https://discord.gg/gnm7Uk4gfZ"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
 
-## 🔥 Activity Graph | アクティビティグラフ | 활동 그래프
+## 🔥 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ivurugg&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
