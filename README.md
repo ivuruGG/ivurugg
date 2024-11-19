@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- GitHubロゴを用いたカスタムバナー -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34ebd8,100:4568dc&height=250&section=header&text=Welcome%20to%20ivuruGG's%20Profile!&fontSize=40&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Crafting%20Experiences%20with%20Code&descAlign=50&descAlignY=60" alt="header" />
 </div>
 
@@ -13,7 +12,6 @@
 
 ## 🌐 Connect with Me | 私とつながりましょう！
 <div align="center">
-  <!-- 各種SNSリンク -->
   <a href="https://x.com/ivurugg"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/ivurugg/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.tiktok.com/@ivurugg"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
@@ -26,9 +24,9 @@
 
 ---
 
-## 🛠️ Tech Stack | 技術スタック
+## 🛠️ My Tech Stack | 技術スタック
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,django,aws,docker,figma,vscode&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,sql,postgres,oracle,go,linux&perline=8" alt="Tech Stack" />
 </div>
 
 ---
