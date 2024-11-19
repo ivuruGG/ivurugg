@@ -24,25 +24,25 @@
 
 ---
 
-## 🛠️ My Tech Stack | 技術スタック | 기술 스택
-### 🌟 Frontend | フロントエンド | 프론트엔드
+## 🛠️ My Tech Stack | 技術スタック | 
+### 🌟 Frontend | 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend Stack" />
 </div>
 
-### 🔧 Backend | バックエンド | 백엔드
+### 🔧 Backend | 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,php,java,python,django,sql,go&perline=6" alt="Backend Stack" />
 </div>
 
-### ☁️ Infrastructure | インフラ | 인프라
+### ☁️ Infrastructure | 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,postgres,oracle,linux&perline=6" alt="Infrastructure Stack" />
 </div>
 
 ---
 
-## 📈 GitHub Highlights | GitHub ハイライト | GitHub 하이라이트
+## 📈 GitHub Highlights | 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivurugg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivurugg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -53,8 +53,8 @@
 
 ---
 
-## 🚀 Featured Projects | 主要なプロジェクト | 주요 프로젝트
-### 🖥️ Web Applications | ウェブアプリ | 웹 애플리케이션
+## 🚀 Featured Projects | 主要なプロジェクト | 
+### 🖥️ Web Applications |
 <div align="center">
   <table>
     <tr>
@@ -72,7 +72,7 @@
   </table>
 </div>
 
-### 🎮 Games | ゲーム | 게임
+### 🎮 Games | 
 <div align="center">
   <table>
     <tr>
@@ -92,14 +92,14 @@
 
 ---
 
-## 🔥 Community Links | コミュニティリンク | 커뮤니티 링크
+## 🔥 My Community Links | 
 <div align="center">
   <a href="https://discord.gg/gnm7Uk4gfZ"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
 ---
 
-## 🔥 Activity Graph | アクティビティグラフ | 활동 그래프
+## 🔥 Activity Graph | 
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ivurugg&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
