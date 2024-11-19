@@ -11,9 +11,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🌐%20Connect%20with%20Me&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Connect with Me" />
-</div>
+## 🌐 Connect with Me （My SNS）
 <div align="center">
   <a href="https://x.com/ivurugg"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/ivurugg/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -26,9 +24,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🛠️%20My%20Tech%20Stack&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="My Tech Stack" />
-</div>
+## 🛠️ My Tech Stack | 技術スタック 
 ### 🌟 Frontend | フロントエンド
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend Stack" />
@@ -49,20 +45,18 @@
 
 ---
 
+## 📈 GitHub Highlights
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20Community%20Links&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Community Links" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ivurugg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivurugg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <div align="center">
-  <a href="https://discord.gg/gnm7Uk4gfZ">
-    <img src="https://img.shields.io/badge/Join%20on%20Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius:5px;" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivurugg&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🚀%20Featured%20Projects&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Featured Projects" />
-</div>
+## 🚀 Featured Projects
 ### 🖥️ Web Applications
 <div align="center">
   <table>
@@ -83,11 +77,36 @@
   </table>
 </div>
 
+### 🎮 Games
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎲 Multiplayer Strategy Game</h3>
+        <p><img src="https://skillicons.dev/icons?i=unity,csharp" alt="Tech Stack" width="150" /></p>
+        <p>An online strategy game for friends.<br>友達と楽しむオンライン戦略ゲーム。</p>
+        <a href="https://github.com/ivurugg/project3"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square&logo=github" alt="View Project" /></a>
+      </td>
+      <td align="center" width="50%">
+        <h3>🏃 Endless Runner Game</h3>
+        <p><img src="https://skillicons.dev/icons?i=unity,csharp" alt="Tech Stack" width="150" /></p>
+        <p>A fast-paced endless runner built with Unity.<br>Unityで開発した高速エンドレスランナーゲーム。</p>
+        <a href="https://github.com/ivurugg/project4"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square&logo=github" alt="View Project" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
+## 🔥 Community Links
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=🔥%20Activity%20Graph&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="Activity Graph" />
+  <a href="https://discord.gg/gnm7Uk4gfZ"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
+
+---
+
+## 🔥 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ivurugg&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
