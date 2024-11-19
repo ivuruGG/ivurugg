@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E92CC,100:53EBD3&height=250&section=header&text=Welcome!&fontSize=50&fontColor=FFFFFF&fontAlignY=40&desc=ivuruGG's%20World%20of%20Code%20&descAlign=60&descAlignY=60&animation=fadeIn" alt="header" />
 </div>
 
-<h1 align="center">👋 Hello! | こんにちは！| 안녕하세요!</h1>
+<h1 align="center">👋 Hello</h1>
 <p align="center">
   <em>Creative Developer • Gamer • Content Creator</em><br>
   <em>クリエイティブな開発者・ゲーマー・コンテンツクリエイター</em><br>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Connect with Me | 私とつながりましょう | 연락해주세요
+## 🌐 Connect with Me （My SNS）
 <div align="center">
   <a href="https://x.com/ivurugg"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/ivurugg/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
