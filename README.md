@@ -79,9 +79,9 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>🌐 Next.js Portfolio</h3>
+        <h3>❄️　Lunaria</h3>
         <p><img src="https://skillicons.dev/icons?i=nextjs,react,js" alt="Tech Stack" width="150" /></p>
-        <p>A personal portfolio site built with Next.js.<br>General DiscordBot</p>
+        <p>General DiscordBot</p>
         <a href="https://github.com/ivuruGG/Lunaria"><img src="https://img.shields.io/badge/View%20Project-blue?style=flat-square&logo=github" alt="View Project" /></a>
       </td>
       <td align="center" width="50%">
